@@ -1,6 +1,14 @@
 # MNIST
 Using supervised and unsupervised machine learning techniques to classify the MNIST dataset
 
+<h2>Convolutional Network</h2>
+
+<div>
+  <p>This network is able to read ~94% accuracy using image augmentation and L2 regularization</p>
+</div>
+
+<hr/>
+
 <h2>Autoencoder</h2>
 
 <div>
@@ -32,7 +40,7 @@ Using supervised and unsupervised machine learning techniques to classify the MN
   <img width='400px' height='400px' src='./images/variational_autoencoder/images_map.png'/>
 </div>
 
-</hr>
+<hr/>
 
 <h2>GAN</h2>
 
