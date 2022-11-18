@@ -212,8 +212,8 @@ def gan_train(latent_dim=100, epochs=100, batches=256):
     show_plot(generated_examples, 5)
 
 if __name__ == '__main__':
-    #convolutional()
-    #autoencoder()
-    #variational_autoencoder_conv()
+    convolutional()
+    autoencoder()
+    variational_autoencoder_conv()
     gan_train()
 
