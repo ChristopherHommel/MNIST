@@ -1,0 +1,7 @@
+tensorflow-gpu==2.8.0
+keras==2.8.0
+numpy==1.21.6
+matplotlib
+scipy==1.5.3
+tqdm==4.54.1
+sklearn==0.23.2
